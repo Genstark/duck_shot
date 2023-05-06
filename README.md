@@ -1,3 +1,6 @@
 # duck_shot
 
->>>> cd data
+# Follow this command
+
+# cd data
+# "duckshot.exe"
