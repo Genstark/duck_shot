@@ -1,3 +1,3 @@
 # duck_shot
 
-> cd data
+>>>> cd data
